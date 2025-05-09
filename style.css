@@ -37,6 +37,14 @@ p {
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
   }
+
+  .operator {
+  color: rgb(120, 239, 120);
+  }
+
+  .clear {
+    color: rgb(210, 11, 11);
+  }
   
   button {
     font-size: 20px;
