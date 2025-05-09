@@ -50,7 +50,8 @@ p {
   }
   
   button:hover {
-    background: #444;
+    background: #ede9e9;
+    color: black;
   }
   
   .zero {
