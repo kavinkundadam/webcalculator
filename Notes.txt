@@ -1,1 +1,4 @@
 Designed an web calculator using HTML CSS and JavaScript
+
+HTML & CSS are covered.
+JS refered from the online source.
